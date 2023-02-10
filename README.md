@@ -5,12 +5,11 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge">
   <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge">
   <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge">
-  <br>
-  <img src="https://img.shields.io/badge/discord-AppleFlavored%235618-1f1f26?style=for-the-badge&labelColor=1b1b21&logo=discord&logoColor=ffffff">
 </p>
 
 :wave: Hey, I'm AppleFlavored! I make programs and tools for myself and others.
 - Pronouns: **he/him**
+- Discord: AppleFlavored#5618
 - Note that I may not accept DMs via Discord.
 
 ## Current Projects
