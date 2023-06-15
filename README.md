@@ -12,7 +12,7 @@
 
 :wave: Hey, I'm AppleFlavored! I make programs and tools for myself and others.
 - Pronouns: **he/him**
-- Discord: AppleFlavored#5618
+- Discord: @appleflavored
 - Note that I may not accept DMs via Discord.
 
 ## Current Projects
