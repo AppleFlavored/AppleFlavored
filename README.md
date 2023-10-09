@@ -17,7 +17,6 @@
 
 ## Current Projects
 - [RuneVM](https://github.com/AppleFlavored/runevm) - A JVM implementation written in Rust.
-- [js2cpu](https://github.com/AppleFlavored/js2cpu) - A JS-to-native compiler, specifically for [OwOS](https://github.com/AppleFlavored/owos).
 - [Tanuki](https://github.com/AppleFlavored/tanuki) - A toy web browser written in C#.
 - [Dash](https://github.com/dasheditor/dash) – A visual scripting editor for building Spigot plugins.
 - [Piston](https://github.com/AppleFlavored/piston) – A server implementation for Minecraft written in C#.
