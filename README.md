@@ -14,9 +14,3 @@
 - Pronouns: **he/him**
 - Discord: @appleflavored
 - Note that I may not accept DMs via Discord.
-
-## Current Projects
-- [RuneVM](https://github.com/AppleFlavored/runevm) - A JVM implementation written in Rust.
-- [Tanuki](https://github.com/AppleFlavored/tanuki) - A toy web browser written in C#.
-- [Dash](https://github.com/dasheditor/dash) – A visual scripting editor for building Spigot plugins.
-- [Piston](https://github.com/AppleFlavored/piston) – A server implementation for Minecraft written in C#.
